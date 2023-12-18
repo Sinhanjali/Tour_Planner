@@ -6,7 +6,7 @@
 .home {
     height: 700px;
     margin-top: -1.5%;
-    background-image: url(images/home.jpg);
+    background-image: url(home.jpg);
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
@@ -113,7 +113,7 @@ header p {
 .login {
     height: 1000px;
     box-shadow: #0000;
-    background-image: url("images/login_background.jpg");
+    background-image: url("login_background.jpg");
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
@@ -188,7 +188,7 @@ span.psw {
 .register {
 
     box-shadow: #0000;
-    background-image: url("images/login_background.jpg");
+    background-image: url("login_background.jpg");
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
@@ -328,7 +328,7 @@ h1 {
 }
 
 .banner {
-    background-image: url(images/banner.jpg);
+    background-image: url(banner.jpg);
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
